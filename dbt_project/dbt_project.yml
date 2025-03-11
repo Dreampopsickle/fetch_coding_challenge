@@ -1,8 +1,0 @@
-name: fetch_coding_challenge
-version: "1.0"
-config-version: 2
-
-profile: fetch_coding_challenge
-
-source-paths: ["models"]
-target_path: "target"
