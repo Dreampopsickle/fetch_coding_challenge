@@ -1,0 +1,10 @@
+fetch_coding_challenge:
+    target:dev
+    outputs:
+        dev:
+            type: bigquery
+            method: service_account
+            project: project_id
+            dataset: dataset
+            keyfile: /app/credentials/service_account.json
+            threads: 1
