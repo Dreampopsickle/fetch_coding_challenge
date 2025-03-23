@@ -1,0 +1,3 @@
+table_name,total_records,standard_barcode_format,non_standard_format,brand_code_barcode_look_a_like
+brands,1167,1167,0,54
+receipt_items,6941,83,2925,0
